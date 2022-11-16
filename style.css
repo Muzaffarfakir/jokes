@@ -1,0 +1,39 @@
+body {
+  background: linear-gradient(#959ACD, #95CDBF);
+  height: 100vh;
+}
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h5 {
+  text-align: center;
+  border: 2px solid;
+  border-radius: 8px;
+  margin-top: 70px;
+}
+
+#next {
+  height: 40px;
+  border: 3px solid #000;
+  margin-left: 44%;
+  background: black;
+  color: white;
+  border-radius: 8px;
+  margin-top: 70px;
+
+
+
+}
+
+#next :hover {
+  background: white;
+  color: #000;
+}
